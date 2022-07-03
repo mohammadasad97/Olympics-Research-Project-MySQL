@@ -8,3 +8,7 @@
 You may start with you own analysis with the data from the link given below:
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+LINK TO MY OLYMPICS CASESTUDY IS GIVEN BELOW:
+
+https://youtu.be/_3pOp_wzBak
