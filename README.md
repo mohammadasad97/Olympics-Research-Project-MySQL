@@ -4,3 +4,7 @@
 * Analysed which country has the highest number of participants, team which has the highest number of medals and the most popular sports among men and women.  
 
 * Publish the findings based on data analysis.
+
+You may start with you own analysis with the data from the link given below:
+
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
